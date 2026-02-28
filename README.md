@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,100:0575E6&height=200&section=header&text=Code.%20Learn.%20Predict.%20Evolve.&fontSize=45&fontAlignY=35&fontColor=ffffff" />
 </div>
 
-# Hi there, I'm Baitoei! 👋
+# Hi there, I'm Baitoey! 👋
 
 ### 🚀 AI Undergraduate @ HCU | Machine Learning & Cybersecurity
 
@@ -20,15 +20,10 @@
   <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analytics" />
 </p>
 
----
-
-### 📊 GitHub Stats & Top Languages
+### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thassanawalai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thassanawalai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thassanawalai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Let's Connect
 <p align="center">

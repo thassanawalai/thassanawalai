@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=50&fontAlignY=35" />
+</div>
+
 # Hi there, I'm Baitoei! 👋
 
 ### 🚀 AI Undergraduate @ HCU | Machine Learning & Cybersecurity
@@ -7,7 +11,7 @@
 ---
 
 ### 🛠️ My Tech Arsenal
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -18,10 +22,17 @@
 
 ---
 
+### 📊 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thassanawalai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thassanawalai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 📫 Let's Connect
-<p align="left">
+<p align="center">
   <a href="mailto:baitouy2547@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   </a>
 </p>

@@ -25,7 +25,7 @@
 **[✨ Thai NLP Text Normalizer System](https://github.com/thassanawalai/thai-nlp-text-normalizer)**
 ระบบประมวลผลและปรับแต่งข้อความภาษาไทยอัตโนมัติ (Text Normalization) สำหรับแก้ปัญหาการพิมพ์ลากเสียงและคำสแลงบนโซเชียลมีเดีย
 * **Tech Stack:** `Python` `PyTorch (Seq2Seq)` `PyThaiNLP` `Streamlit`
-* 👉 **[คลิกเพื่อลองเล่น Web App จริงบนคลาวด์ (Live Demo)](https://thai-nlp-text-normalizer.streamlit.app/)** <br>
+* 👉 **[คลิกเพื่อลองเล่น Web App จริงบนคลาวด์ (Live Demo)]([https://thai-nlp-text-normalizer.streamlit.app/](https://thai-nlp-text-normalizer-jeumnddvfo2npa3fcnr5km.streamlit.app/))** <br>
 
 ### 🔥 GitHub Streak Stats
 <p align="center">

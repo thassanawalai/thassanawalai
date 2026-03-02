@@ -20,6 +20,13 @@
   <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analytics" />
 </p>
 
+### 🚀 Highlighted Projects
+
+**[✨ Thai NLP Text Normalizer System](https://github.com/thassanawalai/thai-nlp-text-normalizer)**
+ระบบประมวลผลและปรับแต่งข้อความภาษาไทยอัตโนมัติ (Text Normalization) สำหรับแก้ปัญหาการพิมพ์ลากเสียงและคำสแลงบนโซเชียลมีเดีย
+* **Tech Stack:** `Python` `PyTorch (Seq2Seq)` `PyThaiNLP` `Streamlit`
+* 👉 **[คลิกเพื่อลองเล่น Web App จริงบนคลาวด์ (Live Demo)](https://thai-nlp-text-normalizer.streamlit.app/)** <br>
+
 ### 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thassanawalai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
